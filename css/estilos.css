@@ -402,14 +402,6 @@ h1 {
     border-radius: 5px;
 }
 
-.derecho{
-    float: right;
-}
-
-.izquierdo {
-    float: left;
-}
-
 .pagina {
     text-align: center;
     padding: 50px;
@@ -514,6 +506,22 @@ h1 {
         grid-template-rows: repeat(1,225px);
         grid-gap: 10px;
         justify-content: center;
+    }
+    .b {
+        background-color: brown;
+        color: white;
+        padding: 5px;
+        font-size: 16px;
+        border-radius: 5px;
+    }    
+    .numero {
+        text-decoration: none;
+        background-color: brown;
+        color: white;
+        font-size: 16px;
+        padding: 5px;
+        border-radius: 5px;
+    
     }
 }
 
