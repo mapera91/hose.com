@@ -517,6 +517,13 @@ h1 {
 }
 
 @media (max-width:325px) {
+    .tarjeta {
+        width: 250px;
+    }
+    .imagen {
+        width: 250px;
+        height: 200px;
+    }
     iframe {
         width: 300px;
     }
