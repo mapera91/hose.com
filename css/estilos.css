@@ -492,10 +492,6 @@ h1 {
         grid-gap: 10px;
         justify-content: center;
     }
-    iframe {
-        width: 300px;
-        height: 300px;
-    }
 }
 
 @media (max-width:375px) {
@@ -531,10 +527,6 @@ h1 {
     }
     .imagen {
         width: 250px;
-        height: 200px;
-    }
-    iframe {
-        width: 200px;
         height: 200px;
     }
 }
